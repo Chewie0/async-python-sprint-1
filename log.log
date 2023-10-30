@@ -1,0 +1,889 @@
+30-10-2023 09:39:11 : ERROR  client : 31 - HTTP Error 404: Not Found
+30-10-2023 09:39:11 : ERROR  client : 31 - Extra data: line 19 column 4 (char 328)
+30-10-2023 09:41:41 : INFO  tasks : 29 - Data for PARIS fetched is OK.
+30-10-2023 09:41:41 : INFO  tasks : 29 - Data for LONDON fetched is OK.
+30-10-2023 09:41:41 : INFO  tasks : 29 - Data for MOSCOW fetched is OK.
+30-10-2023 09:41:41 : INFO  tasks : 29 - Data for BERLIN fetched is OK.
+30-10-2023 09:41:42 : INFO  tasks : 29 - Data for KAZAN fetched is OK.
+30-10-2023 09:41:42 : INFO  tasks : 29 - Data for BEIJING fetched is OK.
+30-10-2023 09:41:42 : INFO  tasks : 29 - Data for VOLGOGRAD fetched is OK.
+30-10-2023 09:41:42 : INFO  tasks : 29 - Data for SPETERSBURG fetched is OK.
+30-10-2023 09:41:42 : INFO  tasks : 29 - Data for NOVOSIBIRSK fetched is OK.
+30-10-2023 09:41:42 : INFO  tasks : 29 - Data for KALININGRAD fetched is OK.
+30-10-2023 09:41:42 : INFO  tasks : 29 - Data for ABUDHABI fetched is OK.
+30-10-2023 09:41:42 : INFO  tasks : 29 - Data for WARSZAWA fetched is OK.
+30-10-2023 09:41:42 : INFO  tasks : 29 - Data for BUCHAREST fetched is OK.
+30-10-2023 09:41:42 : INFO  tasks : 29 - Data for ROMA fetched is OK.
+30-10-2023 09:41:42 : ERROR  client : 31 - HTTP Error 404: Not Found
+30-10-2023 09:41:42 : INFO  tasks : 29 - Data for CAIRO fetched is OK.
+30-10-2023 09:41:42 : ERROR  tasks : 41 - Invalid Response for MADRID is None
+30-10-2023 09:41:42 : ERROR  client : 31 - Extra data: line 19 column 4 (char 328)
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for MOSCOW is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for MOSCOW calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for PARIS is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for PARIS calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for LONDON is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for LONDON calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for BERLIN is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for BERLIN calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for BEIJING is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for BEIJING calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for KAZAN is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for KAZAN calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for SPETERSBURG is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for SPETERSBURG calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for VOLGOGRAD is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for VOLGOGRAD calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for NOVOSIBIRSK is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for NOVOSIBIRSK calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for KALININGRAD is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for KALININGRAD calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for ABUDHABI is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for ABUDHABI calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for WARSZAWA is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for WARSZAWA calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for BUCHAREST is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for BUCHAREST calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for ROMA is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for ROMA calculate is OK.
+30-10-2023 09:41:42 : INFO  tasks : 61 - Analyze data for CAIRO is OK.
+30-10-2023 09:41:42 : INFO  tasks : 64 - Calculate av_temp and relevant_cond_hours for CAIRO calculate is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 93 - Write updates to json is OK.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities CAIRO.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities BEIJING.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities ROMA.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities BUCHAREST.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities VOLGOGRAD.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities NOVOSIBIRSK.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities PARIS.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities BERLIN.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities LONDON.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities WARSZAWA.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities MOSCOW.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities KAZAN.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities KALININGRAD.
+30-10-2023 09:41:43 : INFO  tasks : 129 - Get best cities SPETERSBURG.
+30-10-2023 09:43:00 : INFO  tasks : 29 - Data for PARIS fetched is OK.
+30-10-2023 09:43:00 : INFO  tasks : 29 - Data for LONDON fetched is OK.
+30-10-2023 09:43:00 : INFO  tasks : 29 - Data for MOSCOW fetched is OK.
+30-10-2023 09:43:00 : INFO  tasks : 29 - Data for BEIJING fetched is OK.
+30-10-2023 09:43:00 : INFO  tasks : 29 - Data for KAZAN fetched is OK.
+30-10-2023 09:43:00 : INFO  tasks : 29 - Data for SPETERSBURG fetched is OK.
+30-10-2023 09:43:00 : INFO  tasks : 29 - Data for BERLIN fetched is OK.
+30-10-2023 09:43:00 : INFO  tasks : 29 - Data for VOLGOGRAD fetched is OK.
+30-10-2023 09:43:00 : INFO  tasks : 29 - Data for KALININGRAD fetched is OK.
+30-10-2023 09:43:00 : INFO  tasks : 29 - Data for NOVOSIBIRSK fetched is OK.
+30-10-2023 09:43:01 : INFO  tasks : 29 - Data for WARSZAWA fetched is OK.
+30-10-2023 09:43:01 : INFO  tasks : 29 - Data for ABUDHABI fetched is OK.
+30-10-2023 09:43:01 : INFO  tasks : 29 - Data for ROMA fetched is OK.
+30-10-2023 09:43:01 : INFO  tasks : 29 - Data for BUCHAREST fetched is OK.
+30-10-2023 09:43:01 : INFO  tasks : 29 - Data for CAIRO fetched is OK.
+30-10-2023 09:43:01 : ERROR  client : 31 - HTTP Error 404: Not Found
+30-10-2023 09:43:01 : ERROR  tasks : 32 - Invalid fetching data for GIZA 
+30-10-2023 09:43:01 : ERROR  tasks : 42 - Invalid Response for MADRID is None
+30-10-2023 09:43:01 : ERROR  tasks : 32 - Invalid fetching data for MADRID 
+30-10-2023 09:43:01 : ERROR  client : 31 - Extra data: line 19 column 4 (char 328)
+30-10-2023 09:43:01 : ERROR  tasks : 32 - Invalid fetching data for TORONTO 
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for MOSCOW is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for MOSCOW calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for PARIS is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for PARIS calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for LONDON is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for LONDON calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for BERLIN is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for BERLIN calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for BEIJING is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for BEIJING calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for KAZAN is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for KAZAN calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for SPETERSBURG is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for SPETERSBURG calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for VOLGOGRAD is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for VOLGOGRAD calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for NOVOSIBIRSK is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for NOVOSIBIRSK calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for KALININGRAD is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for KALININGRAD calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for ABUDHABI is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for ABUDHABI calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for WARSZAWA is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for WARSZAWA calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for BUCHAREST is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for BUCHAREST calculate is OK.
+30-10-2023 09:43:01 : INFO  tasks : 62 - Analyze data for ROMA is OK.
+30-10-2023 09:43:01 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for ROMA calculate is OK.
+30-10-2023 09:43:02 : INFO  tasks : 62 - Analyze data for CAIRO is OK.
+30-10-2023 09:43:02 : INFO  tasks : 65 - Calculate av_temp and relevant_cond_hours for CAIRO calculate is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 94 - Write updates to json is OK.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities CAIRO.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities BEIJING.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities ROMA.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities BUCHAREST.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities VOLGOGRAD.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities NOVOSIBIRSK.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities PARIS.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities BERLIN.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities LONDON.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities WARSZAWA.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities MOSCOW.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities KAZAN.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities KALININGRAD.
+30-10-2023 09:43:02 : INFO  tasks : 130 - Get best cities SPETERSBURG.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (17376, ThreadPoolExecutor-0_1))
+Log : - Data for PARIS fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (9636, ThreadPoolExecutor-0_0))
+Log : - Data for MOSCOW fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (20904, ThreadPoolExecutor-0_3))
+Log : - Data for BERLIN fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (9636, ThreadPoolExecutor-0_0))
+Log : - Data for KAZAN fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (17376, ThreadPoolExecutor-0_1))
+Log : - Data for BEIJING fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (20904, ThreadPoolExecutor-0_3))
+Log : - Data for SPETERSBURG fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (17376, ThreadPoolExecutor-0_1))
+Log : - Data for NOVOSIBIRSK fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (20904, ThreadPoolExecutor-0_3))
+Log : - Data for KALININGRAD fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (9636, ThreadPoolExecutor-0_0))
+Log : - Data for VOLGOGRAD fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (17376, ThreadPoolExecutor-0_1))
+Log : - Data for ABUDHABI fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (9636, ThreadPoolExecutor-0_0))
+Log : - Data for BUCHAREST fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (17376, ThreadPoolExecutor-0_1))
+Log : - Data for ROMA fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (20904, ThreadPoolExecutor-0_3))
+Log : - Data for WARSZAWA fetched is OK.
+30-10-2023 09:44:12 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (9636, ThreadPoolExecutor-0_0))
+Log : - Data for CAIRO fetched is OK.
+30-10-2023 09:44:12 : ERROR  client  __do_req : 31 : (Process Details : (23952, MainProcess), Thread Details : (17376, ThreadPoolExecutor-0_1))
+Log : - HTTP Error 404: Not Found
+30-10-2023 09:44:12 : ERROR  tasks  run : 32 : (Process Details : (23952, MainProcess), Thread Details : (17376, ThreadPoolExecutor-0_1))
+Log : - Invalid fetching data for GIZA 
+30-10-2023 09:44:12 : ERROR  tasks  _get_from_api : 42 : (Process Details : (23952, MainProcess), Thread Details : (20904, ThreadPoolExecutor-0_3))
+Log : - Invalid Response for MADRID is None
+30-10-2023 09:44:12 : ERROR  tasks  run : 32 : (Process Details : (23952, MainProcess), Thread Details : (20904, ThreadPoolExecutor-0_3))
+Log : - Invalid fetching data for MADRID 
+30-10-2023 09:44:12 : ERROR  client  __do_req : 31 : (Process Details : (23952, MainProcess), Thread Details : (9636, ThreadPoolExecutor-0_0))
+Log : - Extra data: line 19 column 4 (char 328)
+30-10-2023 09:44:12 : ERROR  tasks  run : 32 : (Process Details : (23952, MainProcess), Thread Details : (9636, ThreadPoolExecutor-0_0))
+Log : - Invalid fetching data for TORONTO 
+30-10-2023 09:44:15 : INFO  tasks  run : 29 : (Process Details : (23952, MainProcess), Thread Details : (29132, ThreadPoolExecutor-0_2))
+Log : - Data for LONDON fetched is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for MOSCOW is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for MOSCOW calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for PARIS is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for PARIS calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for LONDON is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for LONDON calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for BERLIN is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for BERLIN calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for BEIJING is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for BEIJING calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for KAZAN is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for KAZAN calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for SPETERSBURG is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for SPETERSBURG calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for VOLGOGRAD is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for VOLGOGRAD calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for NOVOSIBIRSK is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for NOVOSIBIRSK calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for KALININGRAD is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for KALININGRAD calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for ABUDHABI is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for ABUDHABI calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for WARSZAWA is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for WARSZAWA calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for BUCHAREST is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for BUCHAREST calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for ROMA is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for ROMA calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 62 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Analyze data for CAIRO is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 65 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Calculate av_temp and relevant_cond_hours for CAIRO calculate is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (32044, ThreadPoolExecutor-1_0))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (26016, ThreadPoolExecutor-1_1))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (9140, ThreadPoolExecutor-1_2))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (30128, ThreadPoolExecutor-1_3))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (32044, ThreadPoolExecutor-1_0))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (26016, ThreadPoolExecutor-1_1))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (9140, ThreadPoolExecutor-1_2))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (30128, ThreadPoolExecutor-1_3))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (32044, ThreadPoolExecutor-1_0))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (26016, ThreadPoolExecutor-1_1))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (9140, ThreadPoolExecutor-1_2))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (30128, ThreadPoolExecutor-1_3))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (32044, ThreadPoolExecutor-1_0))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (26016, ThreadPoolExecutor-1_1))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 94 : (Process Details : (23952, MainProcess), Thread Details : (9140, ThreadPoolExecutor-1_2))
+Log : - Write updates to json is OK.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities CAIRO.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities BEIJING.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities ROMA.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities BUCHAREST.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities VOLGOGRAD.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities NOVOSIBIRSK.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities PARIS.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities BERLIN.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities LONDON.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities WARSZAWA.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities MOSCOW.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities KAZAN.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities KALININGRAD.
+30-10-2023 09:44:15 : INFO  tasks  run : 130 : (Process Details : (23952, MainProcess), Thread Details : (14640, MainThread))
+Log : - Get best cities SPETERSBURG.
+30-10-2023 09:45:19 : INFO  tasks  run : 29 - Data for MOSCOW fetched is OK.
+30-10-2023 09:45:19 : INFO  tasks  run : 29 - Data for BERLIN fetched is OK.
+30-10-2023 09:45:19 : INFO  tasks  run : 29 - Data for KAZAN fetched is OK.
+30-10-2023 09:45:19 : INFO  tasks  run : 29 - Data for BEIJING fetched is OK.
+30-10-2023 09:45:19 : INFO  tasks  run : 29 - Data for VOLGOGRAD fetched is OK.
+30-10-2023 09:45:19 : INFO  tasks  run : 29 - Data for SPETERSBURG fetched is OK.
+30-10-2023 09:45:20 : INFO  tasks  run : 29 - Data for KALININGRAD fetched is OK.
+30-10-2023 09:45:20 : INFO  tasks  run : 29 - Data for NOVOSIBIRSK fetched is OK.
+30-10-2023 09:45:20 : INFO  tasks  run : 29 - Data for WARSZAWA fetched is OK.
+30-10-2023 09:45:20 : INFO  tasks  run : 29 - Data for ABUDHABI fetched is OK.
+30-10-2023 09:45:20 : INFO  tasks  run : 29 - Data for BUCHAREST fetched is OK.
+30-10-2023 09:45:20 : INFO  tasks  run : 29 - Data for ROMA fetched is OK.
+30-10-2023 09:45:20 : INFO  tasks  run : 29 - Data for CAIRO fetched is OK.
+30-10-2023 09:45:20 : ERROR  client  __do_req : 31 - HTTP Error 404: Not Found
+30-10-2023 09:45:20 : ERROR  tasks  run : 32 - Invalid fetching data for GIZA 
+30-10-2023 09:45:20 : ERROR  tasks  _get_from_api : 42 - Invalid Response for MADRID is None
+30-10-2023 09:45:20 : ERROR  tasks  run : 32 - Invalid fetching data for MADRID 
+30-10-2023 09:45:20 : ERROR  client  __do_req : 31 - Extra data: line 19 column 4 (char 328)
+30-10-2023 09:45:20 : ERROR  tasks  run : 32 - Invalid fetching data for TORONTO 
+30-10-2023 09:45:22 : INFO  tasks  run : 29 - Data for PARIS fetched is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 29 - Data for LONDON fetched is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 62 - Analyze data for MOSCOW is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for MOSCOW calculate is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 62 - Analyze data for PARIS is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for PARIS calculate is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 62 - Analyze data for LONDON is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for LONDON calculate is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 62 - Analyze data for BERLIN is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BERLIN calculate is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 62 - Analyze data for BEIJING is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BEIJING calculate is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 62 - Analyze data for KAZAN is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KAZAN calculate is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 62 - Analyze data for SPETERSBURG is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for SPETERSBURG calculate is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 62 - Analyze data for VOLGOGRAD is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for VOLGOGRAD calculate is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 62 - Analyze data for NOVOSIBIRSK is OK.
+30-10-2023 09:45:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for NOVOSIBIRSK calculate is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 62 - Analyze data for KALININGRAD is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KALININGRAD calculate is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 62 - Analyze data for ABUDHABI is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ABUDHABI calculate is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 62 - Analyze data for WARSZAWA is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for WARSZAWA calculate is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 62 - Analyze data for BUCHAREST is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BUCHAREST calculate is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 62 - Analyze data for ROMA is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ROMA calculate is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 62 - Analyze data for CAIRO is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for CAIRO calculate is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities CAIRO.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities BEIJING.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities ROMA.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities BUCHAREST.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities VOLGOGRAD.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities NOVOSIBIRSK.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities PARIS.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities BERLIN.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities LONDON.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities WARSZAWA.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities MOSCOW.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities KAZAN.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities KALININGRAD.
+30-10-2023 09:45:23 : INFO  tasks  run : 130 - Get best cities SPETERSBURG.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for PARIS fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for BERLIN fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for MOSCOW fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for LONDON fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for BEIJING fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for KAZAN fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for SPETERSBURG fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for VOLGOGRAD fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for NOVOSIBIRSK fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for KALININGRAD fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for ABUDHABI fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for WARSZAWA fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for BUCHAREST fetched is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for CAIRO fetched is OK.
+30-10-2023 09:45:29 : ERROR  client  __do_req : 31 - HTTP Error 404: Not Found
+30-10-2023 09:45:29 : INFO  tasks  run : 29 - Data for ROMA fetched is OK.
+30-10-2023 09:45:29 : ERROR  tasks  run : 32 - Invalid fetching data for GIZA 
+30-10-2023 09:45:29 : ERROR  tasks  _get_from_api : 42 - Invalid Response for MADRID is None
+30-10-2023 09:45:29 : ERROR  tasks  run : 32 - Invalid fetching data for MADRID 
+30-10-2023 09:45:29 : ERROR  client  __do_req : 31 - Extra data: line 19 column 4 (char 328)
+30-10-2023 09:45:29 : ERROR  tasks  run : 32 - Invalid fetching data for TORONTO 
+30-10-2023 09:45:29 : INFO  tasks  run : 62 - Analyze data for MOSCOW is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for MOSCOW calculate is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 62 - Analyze data for PARIS is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for PARIS calculate is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 62 - Analyze data for LONDON is OK.
+30-10-2023 09:45:29 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for LONDON calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for BERLIN is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BERLIN calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for BEIJING is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BEIJING calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for KAZAN is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KAZAN calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for SPETERSBURG is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for SPETERSBURG calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for VOLGOGRAD is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for VOLGOGRAD calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for NOVOSIBIRSK is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for NOVOSIBIRSK calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for KALININGRAD is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KALININGRAD calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for ABUDHABI is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ABUDHABI calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for WARSZAWA is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for WARSZAWA calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for BUCHAREST is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BUCHAREST calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for ROMA is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ROMA calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 62 - Analyze data for CAIRO is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for CAIRO calculate is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities CAIRO.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities BEIJING.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities ROMA.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities BUCHAREST.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities VOLGOGRAD.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities NOVOSIBIRSK.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities PARIS.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities BERLIN.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities LONDON.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities WARSZAWA.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities MOSCOW.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities KAZAN.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities KALININGRAD.
+30-10-2023 09:45:30 : INFO  tasks  run : 130 - Get best cities SPETERSBURG.
+30-10-2023 09:48:05 : INFO  tasks  run : 29 - Data for PARIS fetched is OK.
+30-10-2023 09:48:05 : INFO  tasks  run : 29 - Data for MOSCOW fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for LONDON fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for BERLIN fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for BEIJING fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for VOLGOGRAD fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for SPETERSBURG fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for KAZAN fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for NOVOSIBIRSK fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for KALININGRAD fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for WARSZAWA fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for ABUDHABI fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for BUCHAREST fetched is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for ROMA fetched is OK.
+30-10-2023 09:48:06 : ERROR  client  __do_req : 31 - HTTP Error 404: Not Found
+30-10-2023 09:48:06 : INFO  tasks  run : 29 - Data for CAIRO fetched is OK.
+30-10-2023 09:48:06 : ERROR  tasks  _get_from_api : 42 - Invalid Response for MADRID is None
+30-10-2023 09:48:06 : ERROR  tasks  run : 32 - Invalid fetching data for GIZA 
+30-10-2023 09:48:06 : ERROR  tasks  run : 32 - Invalid fetching data for MADRID 
+30-10-2023 09:48:06 : ERROR  client  __do_req : 31 - Extra data: line 19 column 4 (char 328)
+30-10-2023 09:48:06 : ERROR  tasks  run : 32 - Invalid fetching data for TORONTO 
+30-10-2023 09:48:06 : INFO  tasks  run : 62 - Analyze data for MOSCOW is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for MOSCOW calculate is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 62 - Analyze data for PARIS is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for PARIS calculate is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 62 - Analyze data for LONDON is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for LONDON calculate is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 62 - Analyze data for BERLIN is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BERLIN calculate is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 62 - Analyze data for BEIJING is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BEIJING calculate is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 62 - Analyze data for KAZAN is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KAZAN calculate is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 62 - Analyze data for SPETERSBURG is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for SPETERSBURG calculate is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 62 - Analyze data for VOLGOGRAD is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for VOLGOGRAD calculate is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 62 - Analyze data for NOVOSIBIRSK is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for NOVOSIBIRSK calculate is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 62 - Analyze data for KALININGRAD is OK.
+30-10-2023 09:48:06 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KALININGRAD calculate is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 62 - Analyze data for ABUDHABI is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ABUDHABI calculate is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 62 - Analyze data for WARSZAWA is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for WARSZAWA calculate is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 62 - Analyze data for BUCHAREST is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BUCHAREST calculate is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 62 - Analyze data for ROMA is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ROMA calculate is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 62 - Analyze data for CAIRO is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for CAIRO calculate is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities CAIRO.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities BEIJING.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities ROMA.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities BUCHAREST.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities VOLGOGRAD.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities NOVOSIBIRSK.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities PARIS.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities BERLIN.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities LONDON.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities WARSZAWA.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities MOSCOW.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities KAZAN.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities KALININGRAD.
+30-10-2023 09:48:07 : INFO  tasks  run : 130 - Get best cities SPETERSBURG.
+30-10-2023 09:48:35 : INFO  tasks  run : 29 - Data for LONDON fetched is OK.
+30-10-2023 09:48:35 : INFO  tasks  run : 29 - Data for BERLIN fetched is OK.
+30-10-2023 09:48:35 : INFO  tasks  run : 29 - Data for MOSCOW fetched is OK.
+30-10-2023 09:48:35 : INFO  tasks  run : 29 - Data for PARIS fetched is OK.
+30-10-2023 09:48:35 : INFO  tasks  run : 29 - Data for SPETERSBURG fetched is OK.
+30-10-2023 09:48:35 : INFO  tasks  run : 29 - Data for VOLGOGRAD fetched is OK.
+30-10-2023 09:48:35 : INFO  tasks  run : 29 - Data for BEIJING fetched is OK.
+30-10-2023 09:48:35 : INFO  tasks  run : 29 - Data for KAZAN fetched is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 29 - Data for NOVOSIBIRSK fetched is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 29 - Data for ABUDHABI fetched is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 29 - Data for KALININGRAD fetched is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 29 - Data for WARSZAWA fetched is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 29 - Data for CAIRO fetched is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 29 - Data for BUCHAREST fetched is OK.
+30-10-2023 09:48:36 : ERROR  client  __do_req : 31 - HTTP Error 404: Not Found
+30-10-2023 09:48:36 : ERROR  tasks  run : 32 - Invalid fetching data for GIZA 
+30-10-2023 09:48:36 : INFO  tasks  run : 29 - Data for ROMA fetched is OK.
+30-10-2023 09:48:36 : ERROR  tasks  _get_from_api : 42 - Invalid Response for MADRID is None
+30-10-2023 09:48:36 : ERROR  tasks  run : 32 - Invalid fetching data for MADRID 
+30-10-2023 09:48:36 : ERROR  client  __do_req : 31 - Extra data: line 19 column 4 (char 328)
+30-10-2023 09:48:36 : ERROR  tasks  run : 32 - Invalid fetching data for TORONTO 
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for MOSCOW is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for MOSCOW calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for PARIS is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for PARIS calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for LONDON is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for LONDON calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for BERLIN is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BERLIN calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for BEIJING is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BEIJING calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for KAZAN is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KAZAN calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for SPETERSBURG is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for SPETERSBURG calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for VOLGOGRAD is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for VOLGOGRAD calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for NOVOSIBIRSK is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for NOVOSIBIRSK calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for KALININGRAD is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KALININGRAD calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for ABUDHABI is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ABUDHABI calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for WARSZAWA is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for WARSZAWA calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for BUCHAREST is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BUCHAREST calculate is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 62 - Analyze data for ROMA is OK.
+30-10-2023 09:48:36 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ROMA calculate is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 62 - Analyze data for CAIRO is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for CAIRO calculate is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:48:37 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:55 : INFO  tasks  run : 29 - Data for MOSCOW fetched is OK.
+30-10-2023 09:51:55 : INFO  tasks  run : 29 - Data for BERLIN fetched is OK.
+30-10-2023 09:51:55 : INFO  tasks  run : 29 - Data for LONDON fetched is OK.
+30-10-2023 09:51:55 : INFO  tasks  run : 29 - Data for PARIS fetched is OK.
+30-10-2023 09:51:55 : INFO  tasks  run : 29 - Data for SPETERSBURG fetched is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 29 - Data for VOLGOGRAD fetched is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 29 - Data for BEIJING fetched is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 29 - Data for KALININGRAD fetched is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 29 - Data for ABUDHABI fetched is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 29 - Data for NOVOSIBIRSK fetched is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 29 - Data for KAZAN fetched is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 29 - Data for ROMA fetched is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 29 - Data for BUCHAREST fetched is OK.
+30-10-2023 09:51:56 : ERROR  client  __do_req : 31 - HTTP Error 404: Not Found
+30-10-2023 09:51:56 : ERROR  tasks  run : 32 - Invalid fetching data for GIZA 
+30-10-2023 09:51:56 : ERROR  tasks  _get_from_api : 42 - Invalid Response for MADRID is None
+30-10-2023 09:51:56 : ERROR  tasks  run : 32 - Invalid fetching data for MADRID 
+30-10-2023 09:51:56 : INFO  tasks  run : 29 - Data for WARSZAWA fetched is OK.
+30-10-2023 09:51:56 : ERROR  client  __do_req : 31 - Extra data: line 19 column 4 (char 328)
+30-10-2023 09:51:56 : ERROR  tasks  run : 32 - Invalid fetching data for TORONTO 
+30-10-2023 09:51:56 : INFO  tasks  run : 29 - Data for CAIRO fetched is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for MOSCOW is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for MOSCOW calculate is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for PARIS is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for PARIS calculate is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for LONDON is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for LONDON calculate is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for BERLIN is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BERLIN calculate is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for BEIJING is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BEIJING calculate is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for KAZAN is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KAZAN calculate is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for SPETERSBURG is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for SPETERSBURG calculate is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for VOLGOGRAD is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for VOLGOGRAD calculate is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for NOVOSIBIRSK is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for NOVOSIBIRSK calculate is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for KALININGRAD is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KALININGRAD calculate is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for ABUDHABI is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ABUDHABI calculate is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 62 - Analyze data for WARSZAWA is OK.
+30-10-2023 09:51:56 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for WARSZAWA calculate is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 62 - Analyze data for BUCHAREST is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BUCHAREST calculate is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 62 - Analyze data for ROMA is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ROMA calculate is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 62 - Analyze data for CAIRO is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for CAIRO calculate is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 09:51:57 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for LONDON fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for BERLIN fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for PARIS fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for MOSCOW fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for KAZAN fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for SPETERSBURG fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for BEIJING fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for VOLGOGRAD fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for NOVOSIBIRSK fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for KALININGRAD fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for WARSZAWA fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for CAIRO fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for ROMA fetched is OK.
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for ABUDHABI fetched is OK.
+30-10-2023 10:41:39 : ERROR  tasks  _get_from_api : 42 - Invalid Response for MADRID is None
+30-10-2023 10:41:39 : ERROR  tasks  run : 32 - Invalid fetching data for MADRID 
+30-10-2023 10:41:39 : INFO  tasks  run : 29 - Data for BUCHAREST fetched is OK.
+30-10-2023 10:41:40 : ERROR  client  __do_req : 31 - HTTP Error 404: Not Found
+30-10-2023 10:41:40 : ERROR  tasks  run : 32 - Invalid fetching data for GIZA 
+30-10-2023 10:41:40 : ERROR  client  __do_req : 31 - Extra data: line 19 column 4 (char 328)
+30-10-2023 10:41:40 : ERROR  tasks  run : 32 - Invalid fetching data for TORONTO 
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for MOSCOW is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for MOSCOW calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for PARIS is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for PARIS calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for LONDON is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for LONDON calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for BERLIN is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BERLIN calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for BEIJING is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BEIJING calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for KAZAN is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KAZAN calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for SPETERSBURG is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for SPETERSBURG calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for VOLGOGRAD is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for VOLGOGRAD calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for NOVOSIBIRSK is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for NOVOSIBIRSK calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for KALININGRAD is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KALININGRAD calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for ABUDHABI is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ABUDHABI calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for WARSZAWA is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for WARSZAWA calculate is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 62 - Analyze data for BUCHAREST is OK.
+30-10-2023 10:41:40 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BUCHAREST calculate is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 62 - Analyze data for ROMA is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ROMA calculate is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 62 - Analyze data for CAIRO is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for CAIRO calculate is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+30-10-2023 10:41:41 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for MOSCOW fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for BERLIN fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for PARIS fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for LONDON fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for BEIJING fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for KAZAN fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for SPETERSBURG fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for VOLGOGRAD fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for WARSZAWA fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for NOVOSIBIRSK fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for KALININGRAD fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for ABUDHABI fetched is OK.
+31-10-2023 12:24:42 : ERROR  client  __do_req : 31 - HTTP Error 404: Not Found
+31-10-2023 12:24:42 : ERROR  tasks  run : 32 - Invalid fetching data for GIZA 
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for BUCHAREST fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for CAIRO fetched is OK.
+31-10-2023 12:24:42 : INFO  tasks  run : 29 - Data for ROMA fetched is OK.
+31-10-2023 12:24:43 : ERROR  tasks  _get_from_api : 42 - Invalid Response for MADRID is None
+31-10-2023 12:24:43 : ERROR  tasks  run : 32 - Invalid fetching data for MADRID 
+31-10-2023 12:24:43 : ERROR  client  __do_req : 31 - Extra data: line 19 column 4 (char 328)
+31-10-2023 12:24:43 : ERROR  tasks  run : 32 - Invalid fetching data for TORONTO 
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for MOSCOW is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for MOSCOW calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for PARIS is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for PARIS calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for LONDON is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for LONDON calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for BERLIN is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BERLIN calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for BEIJING is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BEIJING calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for KAZAN is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KAZAN calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for SPETERSBURG is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for SPETERSBURG calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for VOLGOGRAD is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for VOLGOGRAD calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for NOVOSIBIRSK is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for NOVOSIBIRSK calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for KALININGRAD is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KALININGRAD calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for ABUDHABI is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ABUDHABI calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for WARSZAWA is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for WARSZAWA calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for BUCHAREST is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BUCHAREST calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for ROMA is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ROMA calculate is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 62 - Analyze data for CAIRO is OK.
+31-10-2023 12:24:43 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for CAIRO calculate is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:24:44 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for MOSCOW fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for LONDON fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for PARIS fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for BERLIN fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for BEIJING fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for KAZAN fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for VOLGOGRAD fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for SPETERSBURG fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for NOVOSIBIRSK fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for KALININGRAD fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for ABUDHABI fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for WARSZAWA fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for BUCHAREST fetched is OK.
+31-10-2023 12:26:22 : ERROR  client  __do_req : 31 - HTTP Error 404: Not Found
+31-10-2023 12:26:22 : ERROR  tasks  run : 32 - Invalid fetching data for GIZA Unexpected error: HTTP Error 404: Not Found
+31-10-2023 12:26:22 : ERROR  tasks  _get_from_api : 42 - Invalid Response for MADRID is None
+31-10-2023 12:26:22 : ERROR  tasks  run : 32 - Invalid fetching data for MADRID 
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for ROMA fetched is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 29 - Data for CAIRO fetched is OK.
+31-10-2023 12:26:22 : ERROR  client  __do_req : 31 - Extra data: line 19 column 4 (char 328)
+31-10-2023 12:26:22 : ERROR  tasks  run : 32 - Invalid fetching data for TORONTO Unexpected error: Extra data: line 19 column 4 (char 328)
+31-10-2023 12:26:22 : INFO  tasks  run : 62 - Analyze data for MOSCOW is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for MOSCOW calculate is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 62 - Analyze data for PARIS is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for PARIS calculate is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 62 - Analyze data for LONDON is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for LONDON calculate is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 62 - Analyze data for BERLIN is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BERLIN calculate is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 62 - Analyze data for BEIJING is OK.
+31-10-2023 12:26:22 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BEIJING calculate is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 62 - Analyze data for KAZAN is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KAZAN calculate is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 62 - Analyze data for SPETERSBURG is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for SPETERSBURG calculate is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 62 - Analyze data for VOLGOGRAD is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for VOLGOGRAD calculate is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 62 - Analyze data for NOVOSIBIRSK is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for NOVOSIBIRSK calculate is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 62 - Analyze data for KALININGRAD is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for KALININGRAD calculate is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 62 - Analyze data for ABUDHABI is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ABUDHABI calculate is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 62 - Analyze data for WARSZAWA is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for WARSZAWA calculate is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 62 - Analyze data for BUCHAREST is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for BUCHAREST calculate is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 62 - Analyze data for ROMA is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for ROMA calculate is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 62 - Analyze data for CAIRO is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 65 - Calculate av_temp and relevant_cond_hours for CAIRO calculate is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
+31-10-2023 12:26:23 : INFO  tasks  run : 94 - Write updates to json is OK.
