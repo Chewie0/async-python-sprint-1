@@ -1,5 +1,6 @@
-
 creds.ini
 .idea/
 __pycache__/
 *.pyc
+*.log
+*.json

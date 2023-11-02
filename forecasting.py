@@ -12,6 +12,7 @@ from logging_conf import LOG_CONFIG
 
 config.dictConfig(LOG_CONFIG)
 
+
 def run_task(task):
     return task.run()
 
@@ -46,9 +47,10 @@ def calculation(data):
 def fetching():
     cities = CITIES.keys()
     fetch_list = (DataFetchingTask(city) for city in cities)
-    with ThreadPoolExecutor(max_workers=4) as pool:
+    with ThreadPoolExecutor(multiprocessing.cpu_count()-3) as pool:
         fetch_tasks = pool.map(run_task, fetch_list)
     return filter(lambda item: item is not None, fetch_tasks)
+
 
 def forecast_weather():
     fetching_data = fetching()
